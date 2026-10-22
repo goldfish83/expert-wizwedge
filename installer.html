@@ -1,0 +1,165 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <meta name="theme-color" content="#FFFFFF">
+  <meta name="description" content="Comment garder Expert WizWedge sous la main sur Android, iPhone, iPad ou ordinateur.">
+  <link rel="icon" type="image/png" href="favicon.png">
+  <title>Installer Expert WizWedge</title>
+  <style>
+    :root {
+      --ink: #1A1A1A;
+      --paper: #FFFFFF;
+      --mist: #F2F2F2;
+      --line: #E2E2E2;
+      --stone: #6B6B6B;
+      --yellow: #FFDD4F;
+      --lime: #D5F983;
+    }
+    * { box-sizing: border-box; }
+    html { -webkit-text-size-adjust: 100%; }
+    body {
+      margin: 0;
+      background: var(--paper);
+      color: var(--ink);
+      font-family: Barlow, "Helvetica Neue", "Segoe UI", Roboto, Arial, sans-serif;
+      font-size: 16px;
+      line-height: 1.5;
+      padding: env(safe-area-inset-top) env(safe-area-inset-right) env(safe-area-inset-bottom) env(safe-area-inset-left);
+    }
+    main { max-width: 640px; margin: 0 auto; padding: 24px 24px 64px; }
+    .logo { display: inline-block; background: var(--yellow); padding: 14px 28px; transform: rotate(-2deg); margin: 8px 0 40px; }
+    .logo img { display: block; width: 120px; height: auto; }
+    h1 { font-size: 36px; line-height: 1.08; font-weight: 800; letter-spacing: -0.6px; margin: 0 0 12px; }
+    h2 { font-size: 22px; line-height: 1.2; font-weight: 700; letter-spacing: -0.2px; margin: 0 0 16px; }
+    p { margin: 0 0 16px; }
+    .lead { font-size: 18px; line-height: 1.45; color: var(--stone); margin-bottom: 40px; }
+    section.path { background: var(--mist); border-radius: 20px; padding: 24px; margin-bottom: 24px; }
+    ol { margin: 0 0 24px; padding: 0; list-style: none; counter-reset: step; }
+    ol li { counter-increment: step; position: relative; padding: 16px 0 16px 40px; border-top: 1px solid var(--line); }
+    ol li::before {
+      content: counter(step);
+      position: absolute; left: 0; top: 16px;
+      font-weight: 700; font-size: 18px; width: 24px;
+    }
+    ol li strong { display: block; font-weight: 600; }
+    ol li span { color: var(--stone); }
+    .button {
+      display: flex; align-items: center; justify-content: center;
+      min-height: 56px; padding: 0 28px; border-radius: 60px;
+      font-size: 16px; font-weight: 600; line-height: 1.2; text-decoration: none; text-align: center;
+      background: var(--ink); color: var(--paper);
+    }
+    .button.accent { background: var(--lime); color: var(--ink); }
+    .button:focus-visible, a:focus-visible, summary:focus-visible { outline: 3px solid var(--ink); outline-offset: 3px; }
+    .note { font-size: 14px; line-height: 1.4; color: var(--stone); margin: 16px 0 0; }
+    .others { margin-top: 40px; }
+    .others h2 { font-size: 18px; }
+    details { border-top: 1px solid var(--line); }
+    details:last-child { border-bottom: 1px solid var(--line); }
+    summary { cursor: pointer; min-height: 48px; display: flex; align-items: center; font-weight: 600; list-style: none; }
+    summary::-webkit-details-marker { display: none; }
+    summary::after { content: "+"; margin-left: auto; font-size: 22px; font-weight: 400; }
+    details[open] summary::after { content: "\2212"; }
+    details .body { padding: 0 0 16px; }
+    details .path { background: var(--mist); }
+    .back { display: inline-block; margin-top: 40px; font-weight: 600; color: var(--ink); min-height: 48px; line-height: 48px; }
+  </style>
+</head>
+<body>
+<main>
+  <div class="logo"><img src="logo.png" alt="WizWedge" width="120" height="74"></div>
+
+  <h1>Gardez Expert WizWedge sous la main</h1>
+  <p class="lead" id="lead">Installez l’application sur votre téléphone pour l’ouvrir en un geste, comme n’importe quelle autre.</p>
+
+  <div id="paths">
+    <section class="path" id="android" data-title="Sur Android">
+      <h2>Sur Android</h2>
+      <p>Téléchargez l’application, puis installez-la en trois étapes.</p>
+      <ol>
+        <li><strong>Autorisez l’installation depuis votre navigateur.</strong><span>Android vous le propose après le téléchargement. Touchez « Paramètres », puis activez « Autoriser depuis cette source ».</span></li>
+        <li><strong>Ouvrez le fichier téléchargé.</strong><span>Il s’appelle expert-wizwedge.apk. Vous le trouvez dans les notifications ou dans le dossier « Téléchargements ».</span></li>
+        <li><strong>Confirmez.</strong><span>Touchez « Installer », puis « Ouvrir ». L’icône jaune apparaît sur votre écran d’accueil.</span></li>
+      </ol>
+      <a class="button accent" href="expert-wizwedge.apk" download>Télécharger l’application</a>
+      <p class="note">Le fichier vient directement de WizWedge. Android peut demander une confirmation supplémentaire : c’est normal, l’application n’est pas distribuée par une boutique.</p>
+    </section>
+
+    <section class="path" id="ios" data-title="Sur iPhone et iPad">
+      <h2>Sur iPhone et iPad</h2>
+      <p>Ouvrez cette page dans Safari, puis ajoutez l’application à votre écran d’accueil.</p>
+      <ol>
+        <li><strong>Touchez « Partager ».</strong><span>C’est l’icône carrée avec une flèche vers le haut, en bas de l’écran sur iPhone, en haut sur iPad.</span></li>
+        <li><strong>Choisissez « Sur l’écran d’accueil ».</strong><span>Faites défiler la liste vers le bas si vous ne la voyez pas tout de suite.</span></li>
+        <li><strong>Touchez « Ajouter ».</strong><span>L’icône jaune apparaît sur votre écran d’accueil et s’ouvre en plein écran.</span></li>
+      </ol>
+      <a class="button" href="./">Ouvrir l’application</a>
+      <p class="note">Cela ne fonctionne que dans Safari. Depuis un autre navigateur, ouvrez d’abord cette adresse dans Safari.</p>
+    </section>
+
+    <section class="path" id="desktop" data-title="Sur ordinateur">
+      <h2>Sur ordinateur</h2>
+      <p>L’application s’ouvre directement dans votre navigateur, sans rien installer. Pour l’avoir sur votre téléphone, ouvrez cette page depuis celui-ci.</p>
+      <a class="button" href="./">Ouvrir l’application</a>
+    </section>
+  </div>
+
+  <a class="back" href="./">Retour à l’application</a>
+</main>
+
+<script>
+  // Met en avant le parcours de l'appareil ; les autres restent dépliables.
+  // Sans JavaScript, les trois parcours s'affichent l'un sous l'autre.
+  (function () {
+    var ua = navigator.userAgent || '';
+    var isIOS = /iPhone|iPad|iPod/.test(ua) ||
+      (navigator.platform === 'MacIntel' && navigator.maxTouchPoints > 1);
+    var kind = /Android/.test(ua) ? 'android' : isIOS ? 'ios' : 'desktop';
+
+    var leads = {
+      android: 'Installez l’application sur votre téléphone pour l’ouvrir en un geste, comme n’importe quelle autre.',
+      ios: 'Ajoutez l’application à votre écran d’accueil pour l’ouvrir en un geste, comme n’importe quelle autre.',
+      desktop: 'Retrouvez l’application dans votre navigateur, ou gardez-la sous la main sur votre téléphone.'
+    };
+    document.getElementById('lead').textContent = leads[kind];
+
+    var paths = document.getElementById('paths');
+    var others = document.createElement('div');
+    others.className = 'others';
+    var title = document.createElement('h2');
+    title.textContent = 'Un autre appareil ?';
+    others.appendChild(title);
+
+    ['android', 'ios', 'desktop'].forEach(function (id) {
+      if (id === kind) return;
+      var section = document.getElementById(id);
+      var details = document.createElement('details');
+      var summary = document.createElement('summary');
+      summary.textContent = section.getAttribute('data-title');
+      section.removeChild(section.getElementsByTagName('h2')[0]);
+      section.style.margin = '0 0 16px';
+      var body = document.createElement('div');
+      body.className = 'body';
+      body.appendChild(section);
+      details.appendChild(summary);
+      details.appendChild(body);
+      others.appendChild(details);
+    });
+    paths.appendChild(others);
+
+    // Arrivée depuis le bouton « Télécharger l'application » : sur Android,
+    // le téléchargement démarre tout seul et les étapes restent à l'écran.
+    if (kind === 'android' && /[?&]telecharger=1/.test(location.search)) {
+      var link = document.querySelector('#android a[download]');
+      if (link) {
+        document.getElementById('lead').textContent =
+          'Le téléchargement démarre. Suivez ensuite les trois étapes ci-dessous pour installer l’application.';
+        setTimeout(function () { link.click(); }, 600);
+      }
+    }
+  })();
+</script>
+</body>
+</html>

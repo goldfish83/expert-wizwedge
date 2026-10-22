@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <!--
+    Valeur remplacée par l'argument --base-href de `flutter build web`.
+    Elle doit commencer et finir par « / ».
+  -->
+  <base href="/">
+
+  <meta charset="UTF-8">
+  <meta content="IE=Edge" http-equiv="X-UA-Compatible">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <meta name="description" content="Expert WizWedge, l'application des professionnels de santé partenaires de WizWedge : formations, protocoles et bilan conseil.">
+  <meta name="theme-color" content="#FFFFFF">
+
+  <!-- iOS : application web installable -->
+  <meta name="mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="default">
+  <meta name="apple-mobile-web-app-title" content="WizWedge">
+  <link rel="apple-touch-icon" href="icons/Icon-192.png">
+
+  <link rel="icon" type="image/png" href="favicon.png">
+  <link rel="manifest" href="manifest.json">
+
+  <title>Expert WizWedge</title>
+
+  <style>
+    html, body { margin: 0; height: 100%; background: #FFFFFF; }
+    #wz-loading {
+      position: fixed;
+      inset: 0;
+      z-index: 10;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      gap: 32px;
+      background: #FFFFFF;
+      transition: opacity 0.25s ease;
+    }
+    #wz-loading.wz-done { opacity: 0; pointer-events: none; }
+    #wz-loading img { width: min(200px, 52vw); height: auto; }
+    #wz-loading .wz-bar {
+      position: relative;
+      width: 96px;
+      height: 2px;
+      overflow: hidden;
+      background: #E2E2E2;
+    }
+    #wz-loading .wz-bar::after {
+      content: "";
+      position: absolute;
+      top: 0;
+      bottom: 0;
+      left: 0;
+      width: 40%;
+      background: #1A1A1A;
+      animation: wz-slide 1.2s ease-in-out infinite;
+    }
+    @keyframes wz-slide {
+      0% { transform: translateX(-100%); }
+      100% { transform: translateX(250%); }
+    }
+    @media (prefers-reduced-motion: reduce) {
+      #wz-loading { transition: none; }
+      #wz-loading .wz-bar::after { animation: none; width: 100%; }
+    }
+  </style>
+</head>
+<body>
+  <div id="wz-loading" role="status" aria-live="polite">
+    <img src="logo.png" alt="WizWedge" width="200" height="123">
+    <div class="wz-bar" aria-hidden="true"></div>
+    <span style="position:absolute;width:1px;height:1px;overflow:hidden;clip:rect(0 0 0 0)">Chargement de l'application</span>
+  </div>
+  <script>
+    // L'écran de chargement s'efface dès que Flutter a dessiné son premier écran.
+    window.addEventListener('flutter-first-frame', function () {
+      var el = document.getElementById('wz-loading');
+      if (!el) return;
+      el.classList.add('wz-done');
+      setTimeout(function () { el.remove(); }, 400);
+    });
+  </script>
+  <script src="flutter_bootstrap.js" async></script>
+</body>
+</html>

@@ -1,0 +1,1947 @@
+[
+ {
+  "id": "4821981692004",
+  "handle": "chaussure-running-homme-helium-bz",
+  "title": "Helium BZ",
+  "category": "running",
+  "audience": "Running Homme",
+  "price_cents": 18900,
+  "image_url": "https://cdn.shopify.com/s/files/1/0276/6441/6868/files/wizwedge_helium_BZ.jpg?v=1774530533",
+  "url": "https://wizwedge.com/fr-fr/products/chaussure-running-homme-helium-bz",
+  "summary": "La chaussure de running homme Helium BZ est destinée aux coureurs à foulée universelle, débutant ou régulier, en recherche de protection pour pratiquer la course à pied en minimisant les douleurs articulaires, mal de dos et tendinites.\n\nCette chaussure peut s'utiliser à l'entraînement et est adaptée aux distances les plus exigeantes (10km, semi-marathon, marathon).\n\nFondée sur un concept breveté (WedgeBox®), la chaussure WizWedge offre aux sportifs une amélioration de l’équilibre postural.\n\nElle soulage l’ensemble de la chaîne postérieure (muscles plantaires, tendon d’Achille, mollets, ischio-",
+  "variants": [
+   {
+    "id": "32627885670500",
+    "size": "41-41.5 (7.5 UK)",
+    "weight": "< 50 kg",
+    "price_cents": 18900,
+    "available": true
+   },
+   {
+    "id": "32627885703268",
+    "size": "41-41.5 (7.5 UK)",
+    "weight": "50-80 kg",
+    "price_cents": 18900,
+    "available": true
+   },
+   {
+    "id": "32627885736036",
+    "size": "41-41.5 (7.5 UK)",
+    "weight": "> 80 kg",
+    "price_cents": 18900,
+    "available": true
+   },
+   {
+    "id": "32627885768804",
+    "size": "42 (8 UK)",
+    "weight": "< 50 kg",
+    "price_cents": 18900,
+    "available": true
+   },
+   {
+    "id": "32627885801572",
+    "size": "42 (8 UK)",
+    "weight": "50-80 kg",
+    "price_cents": 18900,
+    "available": true
+   },
+   {
+    "id": "32627885834340",
+    "size": "42 (8 UK)",
+    "weight": "> 80 kg",
+    "price_cents": 18900,
+    "available": true
+   },
+   {
+    "id": "32627885867108",
+    "size": "42.5 (8.5 UK)",
+    "weight": "< 50 kg",
+    "price_cents": 18900,
+    "available": true
+   },
+   {
+    "id": "32627885899876",
+    "size": "42.5 (8.5 UK)",
+    "weight": "50-80 kg",
+    "price_cents": 18900,
+    "available": true
+   },
+   {
+    "id": "32627885998180",
+    "size": "42.5 (8.5 UK)",
+    "weight": "> 80 kg",
+    "price_cents": 18900,
+    "available": true
+   },
+   {
+    "id": "32627886063716",
+    "size": "43-43.5 (9 UK)",
+    "weight": "< 50 kg",
+    "price_cents": 18900,
+    "available": true
+   },
+   {
+    "id": "32627886129252",
+    "size": "43-43.5 (9 UK)",
+    "weight": "50-80 kg",
+    "price_cents": 18900,
+    "available": true
+   },
+   {
+    "id": "32627886227556",
+    "size": "43-43.5 (9 UK)",
+    "weight": "> 80 kg",
+    "price_cents": 18900,
+    "available": true
+   },
+   {
+    "id": "32627886260324",
+    "size": "44 (9.5 UK)",
+    "weight": "< 50 kg",
+    "price_cents": 18900,
+    "available": true
+   },
+   {
+    "id": "32627886293092",
+    "size": "44 (9.5 UK)",
+    "weight": "50-80 kg",
+    "price_cents": 18900,
+    "available": true
+   },
+   {
+    "id": "32627886325860",
+    "size": "44 (9.5 UK)",
+    "weight": "> 80 kg",
+    "price_cents": 18900,
+    "available": true
+   },
+   {
+    "id": "32627886358628",
+    "size": "44.5 (10 UK)",
+    "weight": "< 50 kg",
+    "price_cents": 18900,
+    "available": true
+   },
+   {
+    "id": "32627886391396",
+    "size": "44.5 (10 UK)",
+    "weight": "50-80 kg",
+    "price_cents": 18900,
+    "available": true
+   },
+   {
+    "id": "32627886424164",
+    "size": "44.5 (10 UK)",
+    "weight": "> 80 kg",
+    "price_cents": 18900,
+    "available": true
+   },
+   {
+    "id": "32627886489700",
+    "size": "45-45.5 (10.5 UK)",
+    "weight": "50-80 kg",
+    "price_cents": 18900,
+    "available": false
+   },
+   {
+    "id": "32627886522468",
+    "size": "45-45.5 (10.5 UK)",
+    "weight": "> 80 kg",
+    "price_cents": 18900,
+    "available": false
+   },
+   {
+    "id": "32627886588004",
+    "size": "46 (11 UK)",
+    "weight": "50-80 kg",
+    "price_cents": 18900,
+    "available": true
+   },
+   {
+    "id": "32627886620772",
+    "size": "46 (11 UK)",
+    "weight": "> 80 kg",
+    "price_cents": 18900,
+    "available": true
+   }
+  ]
+ },
+ {
+  "id": "4821981888612",
+  "handle": "chaussure-running-homme-pronateur-helium-pcs",
+  "title": "Helium PCS (Pronation Control System)",
+  "category": "running",
+  "audience": "Running Homme",
+  "price_cents": 18900,
+  "image_url": "https://cdn.shopify.com/s/files/1/0276/6441/6868/files/wizwedge_helium_PCS.jpg?v=1774530607",
+  "url": "https://wizwedge.com/fr-fr/products/chaussure-running-homme-pronateur-helium-pcs",
+  "summary": "La chaussure de running homme Helium PCS (Pronation Control System) est destinée aux coureurs à foulée pronatrice, débutant ou régulier, en recherche de protection pour pratiquer la course à pied en minimisant les douleurs articulaires, mal de dos et tendinites.\n\nCette chaussure peut s'utiliser à l'entraînement et est adaptée aux distances les plus exigeantes (10km, semi-marathon, marathon).\n\nFondée sur un concept breveté (WedgeBox®), la chaussure WizWedge offre aux sportifs une amélioration de l’équilibre postural.\n\nElle soulage l’ensemble de la chaîne postérieure (muscles plantaires, tendon ",
+  "variants": [
+   {
+    "id": "32627881902180",
+    "size": "41-41.5 (7.5 UK)",
+    "weight": "< 50 kg",
+    "price_cents": 18900,
+    "available": true
+   },
+   {
+    "id": "32627881934948",
+    "size": "41-41.5 (7.5 UK)",
+    "weight": "50-80 kg",
+    "price_cents": 18900,
+    "available": true
+   },
+   {
+    "id": "32627881967716",
+    "size": "41-41.5 (7.5 UK)",
+    "weight": "> 80 kg",
+    "price_cents": 18900,
+    "available": true
+   },
+   {
+    "id": "32627882000484",
+    "size": "42 (8 UK)",
+    "weight": "< 50 kg",
+    "price_cents": 18900,
+    "available": true
+   },
+   {
+    "id": "32627882033252",
+    "size": "42 (8 UK)",
+    "weight": "50-80 kg",
+    "price_cents": 18900,
+    "available": true
+   },
+   {
+    "id": "32627882066020",
+    "size": "42 (8 UK)",
+    "weight": "> 80 kg",
+    "price_cents": 18900,
+    "available": true
+   },
+   {
+    "id": "32627882098788",
+    "size": "42.5 (8.5 UK)",
+    "weight": "< 50 kg",
+    "price_cents": 18900,
+    "available": true
+   },
+   {
+    "id": "32627882131556",
+    "size": "42.5 (8.5 UK)",
+    "weight": "50-80 kg",
+    "price_cents": 18900,
+    "available": true
+   },
+   {
+    "id": "32627882164324",
+    "size": "42.5 (8.5 UK)",
+    "weight": "> 80 kg",
+    "price_cents": 18900,
+    "available": true
+   },
+   {
+    "id": "32627882197092",
+    "size": "43-43.5 (9 UK)",
+    "weight": "< 50 kg",
+    "price_cents": 18900,
+    "available": true
+   },
+   {
+    "id": "32627882229860",
+    "size": "43-43.5 (9 UK)",
+    "weight": "50-80 kg",
+    "price_cents": 18900,
+    "available": true
+   },
+   {
+    "id": "32627882262628",
+    "size": "43-43.5 (9 UK)",
+    "weight": "> 80 kg",
+    "price_cents": 18900,
+    "available": true
+   },
+   {
+    "id": "32627882295396",
+    "size": "44 (9.5 UK)",
+    "weight": "< 50 kg",
+    "price_cents": 18900,
+    "available": true
+   },
+   {
+    "id": "32627882328164",
+    "size": "44 (9.5 UK)",
+    "weight": "50-80 kg",
+    "price_cents": 18900,
+    "available": true
+   },
+   {
+    "id": "32627882360932",
+    "size": "44 (9.5 UK)",
+    "weight": "> 80 kg",
+    "price_cents": 18900,
+    "available": true
+   },
+   {
+    "id": "32627882393700",
+    "size": "44.5 (10 UK)",
+    "weight": "< 50 kg",
+    "price_cents": 18900,
+    "available": true
+   },
+   {
+    "id": "32627882426468",
+    "size": "44.5 (10 UK)",
+    "weight": "50-80 kg",
+    "price_cents": 18900,
+    "available": true
+   },
+   {
+    "id": "32627882459236",
+    "size": "44.5 (10 UK)",
+    "weight": "> 80 kg",
+    "price_cents": 18900,
+    "available": true
+   },
+   {
+    "id": "32627882524772",
+    "size": "45-45.5 (10.5 UK)",
+    "weight": "50-80 kg",
+    "price_cents": 18900,
+    "available": true
+   },
+   {
+    "id": "32627882557540",
+    "size": "45-45.5 (10.5 UK)",
+    "weight": "> 80 kg",
+    "price_cents": 18900,
+    "available": true
+   },
+   {
+    "id": "32627882623076",
+    "size": "46 (11 UK)",
+    "weight": "50-80 kg",
+    "price_cents": 18900,
+    "available": true
+   },
+   {
+    "id": "32627882655844",
+    "size": "46 (11 UK)",
+    "weight": "> 80 kg",
+    "price_cents": 18900,
+    "available": true
+   }
+  ]
+ },
+ {
+  "id": "4853844181092",
+  "handle": "chaussure-running-homme-helium-universel",
+  "title": "Helium Universel",
+  "category": "running",
+  "audience": "Running Homme",
+  "price_cents": 18900,
+  "image_url": "https://cdn.shopify.com/s/files/1/0276/6441/6868/files/wizwedge_helium_Uni.jpg?v=1774530695",
+  "url": "https://wizwedge.com/fr-fr/products/chaussure-running-homme-helium-universel",
+  "summary": "La chaussure de running homme Helium Universel est destinée aux coureurs à foulée universelle, débutant ou régulier, en recherche de protection pour pratiquer la course à pied en minimisant les douleurs articulaires, mal de dos et tendinites. \nCette chaussure peut s'utiliser à l'entraînement et est adaptée aux distances les plus exigeantes (10km, semi-marathon, marathon).\n\nFondée sur un concept breveté (WedgeBox®), la chaussure WizWedge offre aux sportifs une amélioration de l’équilibre postural.\n\nElle soulage l’ensemble de la chaîne postérieure (muscles plantaires, tendon d’Achille, mollets, ",
+  "variants": [
+   {
+    "id": "32955061207140",
+    "size": "41-41.5 (7.5 UK)",
+    "weight": "< 50 kg",
+    "price_cents": 18900,
+    "available": true
+   },
+   {
+    "id": "32955061305444",
+    "size": "41-41.5 (7.5 UK)",
+    "weight": "50-80 kg",
+    "price_cents": 18900,
+    "available": true
+   },
+   {
+    "id": "32955061403748",
+    "size": "41-41.5 (7.5 UK)",
+    "weight": "> 80 kg",
+    "price_cents": 18900,
+    "available": true
+   },
+   {
+    "id": "32955061502052",
+    "size": "42 (8 UK)",
+    "weight": "< 50 kg",
+    "price_cents": 18900,
+    "available": true
+   },
+   {
+    "id": "32955061600356",
+    "size": "42 (8 UK)",
+    "weight": "50-80 kg",
+    "price_cents": 18900,
+    "available": true
+   },
+   {
+    "id": "32955061698660",
+    "size": "42 (8 UK)",
+    "weight": "> 80 kg",
+    "price_cents": 18900,
+    "available": true
+   },
+   {
+    "id": "32955061796964",
+    "size": "42.5 (8.5 UK)",
+    "weight": "< 50 kg",
+    "price_cents": 18900,
+    "available": true
+   },
+   {
+    "id": "32955061895268",
+    "size": "42.5 (8.5 UK)",
+    "weight": "50-80 kg",
+    "price_cents": 18900,
+    "available": true
+   },
+   {
+    "id": "32955061993572",
+    "size": "42.5 (8.5 UK)",
+    "weight": "> 80 kg",
+    "price_cents": 18900,
+    "available": true
+   },
+   {
+    "id": "32955062091876",
+    "size": "43-43.5 (9 UK)",
+    "weight": "< 50 kg",
+    "price_cents": 18900,
+    "available": true
+   },
+   {
+    "id": "32955062190180",
+    "size": "43-43.5 (9 UK)",
+    "weight": "50-80 kg",
+    "price_cents": 18900,
+    "available": true
+   },
+   {
+    "id": "32955062288484",
+    "size": "43-43.5 (9 UK)",
+    "weight": "> 80 kg",
+    "price_cents": 18900,
+    "available": true
+   },
+   {
+    "id": "32955062386788",
+    "size": "44 (9.5 UK)",
+    "weight": "< 50 kg",
+    "price_cents": 18900,
+    "available": true
+   },
+   {
+    "id": "32955062485092",
+    "size": "44 (9.5 UK)",
+    "weight": "50-80 kg",
+    "price_cents": 18900,
+    "available": true
+   },
+   {
+    "id": "32955062583396",
+    "size": "44 (9.5 UK)",
+    "weight": "> 80 kg",
+    "price_cents": 18900,
+    "available": true
+   },
+   {
+    "id": "32955062681700",
+    "size": "44.5 (10 UK)",
+    "weight": "< 50 kg",
+    "price_cents": 18900,
+    "available": true
+   },
+   {
+    "id": "32955062780004",
+    "size": "44.5 (10 UK)",
+    "weight": "50-80 kg",
+    "price_cents": 18900,
+    "available": true
+   },
+   {
+    "id": "32955062878308",
+    "size": "44.5 (10 UK)",
+    "weight": "> 80 kg",
+    "price_cents": 18900,
+    "available": true
+   },
+   {
+    "id": "32955063074916",
+    "size": "45-45.5 (10.5 UK)",
+    "weight": "50-80 kg",
+    "price_cents": 18900,
+    "available": true
+   },
+   {
+    "id": "32955063173220",
+    "size": "45-45.5 (10.5 UK)",
+    "weight": "> 80 kg",
+    "price_cents": 18900,
+    "available": true
+   },
+   {
+    "id": "32955063369828",
+    "size": "46 (11 UK)",
+    "weight": "50-80 kg",
+    "price_cents": 18900,
+    "available": true
+   },
+   {
+    "id": "32955063468132",
+    "size": "46 (11 UK)",
+    "weight": "> 80 kg",
+    "price_cents": 18900,
+    "available": true
+   }
+  ]
+ },
+ {
+  "id": "4821981790308",
+  "handle": "chaussure-running-junior-helium-universel",
+  "title": "Helium Universel Junior",
+  "category": "running",
+  "audience": "Running Junior",
+  "price_cents": 18900,
+  "image_url": "https://cdn.shopify.com/s/files/1/0276/6441/6868/files/wizwedge_helium_Uni.jpg?v=1774530695",
+  "url": "https://wizwedge.com/fr-fr/products/chaussure-running-junior-helium-universel",
+  "summary": "Le modèle HELIUM Universel est conçu pour une pratique sur routes ou chemins, pour les sportifs dont la foulée est de type neutre (ou légers pronateur).\n\nFondée sur un concept breveté (WedgeBox®), la géométrie de la chaussure WizWedge® offre aux sportifs une amélioration de l’équilibre postural et des appuis, une meilleure prévention des blessures, et une optimisation de la performance.\n\nElle soulage l’ensemble de la chaîne musculaire postérieure (muscles plantaires, tendon d’Achille, mollets, ischio-jambiers, fessiers, lombaires) grâce à une surélévation étudiée du talon associée au support d",
+  "variants": [
+   {
+    "id": "32602575667300",
+    "size": "37-37.5 (4.5 UK)",
+    "weight": "< 50 kg",
+    "price_cents": 18900,
+    "available": true
+   },
+   {
+    "id": "32602575700068",
+    "size": "37-37.5 (4.5 UK)",
+    "weight": "50-80 kg",
+    "price_cents": 18900,
+    "available": true
+   },
+   {
+    "id": "32602575765604",
+    "size": "38 (5 UK)",
+    "weight": "< 50 kg",
+    "price_cents": 18900,
+    "available": true
+   },
+   {
+    "id": "32602575798372",
+    "size": "38 (5 UK)",
+    "weight": "50-80 kg",
+    "price_cents": 18900,
+    "available": true
+   },
+   {
+    "id": "32602575863908",
+    "size": "38.5 (5.5 UK)",
+    "weight": "< 50 kg",
+    "price_cents": 18900,
+    "available": true
+   },
+   {
+    "id": "32602575896676",
+    "size": "38.5 (5.5 UK)",
+    "weight": "50-80 kg",
+    "price_cents": 18900,
+    "available": true
+   },
+   {
+    "id": "32602575962212",
+    "size": "39-39.5 (6 UK)",
+    "weight": "< 50 kg",
+    "price_cents": 18900,
+    "available": true
+   },
+   {
+    "id": "32602575994980",
+    "size": "39-39.5 (6 UK)",
+    "weight": "50-80 kg",
+    "price_cents": 18900,
+    "available": true
+   },
+   {
+    "id": "32602576060516",
+    "size": "40 (6.5 UK)",
+    "weight": "< 50 kg",
+    "price_cents": 18900,
+    "available": true
+   },
+   {
+    "id": "32602576093284",
+    "size": "40 (6.5 UK)",
+    "weight": "50-80 kg",
+    "price_cents": 18900,
+    "available": true
+   },
+   {
+    "id": "32602576126052",
+    "size": "40 (6.5 UK)",
+    "weight": "> 80 kg",
+    "price_cents": 18900,
+    "available": true
+   },
+   {
+    "id": "32602576158820",
+    "size": "40.5 (7 UK)",
+    "weight": "< 50 kg",
+    "price_cents": 18900,
+    "available": false
+   },
+   {
+    "id": "32602576191588",
+    "size": "40.5 (7 UK)",
+    "weight": "50-80 kg",
+    "price_cents": 18900,
+    "available": false
+   },
+   {
+    "id": "32602576224356",
+    "size": "40.5 (7 UK)",
+    "weight": "> 80 kg",
+    "price_cents": 18900,
+    "available": false
+   }
+  ]
+ },
+ {
+  "id": "4821981986916",
+  "handle": "chaussure-running-femme-pronation-neon-pcs",
+  "title": "Neon PCS",
+  "category": "running",
+  "audience": "Running Femme",
+  "price_cents": 18900,
+  "image_url": "https://cdn.shopify.com/s/files/1/0276/6441/6868/files/wizwedge_neon_pcs.jpg?v=1774530648",
+  "url": "https://wizwedge.com/fr-fr/products/chaussure-running-femme-pronation-neon-pcs",
+  "summary": "Le modèle NEON PCS a été conçu pour tenir compte des spécificités podologiques et biomécaniques des femmes sportives. Partageant les mêmes spécifications techniques que le modèle NEON, le modèle NEON-PCS (Pronation Control System) limite la tendance à l’hyperpronation grâce à un matériau de densité étudié\n\nFondée sur un concept breveté (WedgeBox®), la géométrie de la chaussure WizWedge® offre aux sportifs une amélioration de l’équilibre postural et des appuis, une meilleure prévention des blessures, et une optimisation de la performance.\n\nElle soulage l’ensemble de la chaîne musculaire postéri",
+  "variants": [
+   {
+    "id": "32627876135012",
+    "size": "37-37.5 (4.5 UK)",
+    "weight": "< 50 kg",
+    "price_cents": 18900,
+    "available": true
+   },
+   {
+    "id": "32627876167780",
+    "size": "37-37.5 (4.5 UK)",
+    "weight": "50-80 kg",
+    "price_cents": 18900,
+    "available": true
+   },
+   {
+    "id": "32627876233316",
+    "size": "38 (5 UK)",
+    "weight": "< 50 kg",
+    "price_cents": 18900,
+    "available": true
+   },
+   {
+    "id": "32627876266084",
+    "size": "38 (5 UK)",
+    "weight": "50-80 kg",
+    "price_cents": 18900,
+    "available": true
+   },
+   {
+    "id": "32627876331620",
+    "size": "38.5 (5.5 UK)",
+    "weight": "< 50 kg",
+    "price_cents": 18900,
+    "available": true
+   },
+   {
+    "id": "32627876364388",
+    "size": "38.5 (5.5 UK)",
+    "weight": "50-80 kg",
+    "price_cents": 18900,
+    "available": true
+   },
+   {
+    "id": "32627876429924",
+    "size": "39-39.5 (6 UK)",
+    "weight": "< 50 kg",
+    "price_cents": 18900,
+    "available": true
+   },
+   {
+    "id": "32627876462692",
+    "size": "39-39.5 (6 UK)",
+    "weight": "50-80 kg",
+    "price_cents": 18900,
+    "available": true
+   },
+   {
+    "id": "32627876528228",
+    "size": "40 (6.5 UK)",
+    "weight": "< 50 kg",
+    "price_cents": 18900,
+    "available": true
+   },
+   {
+    "id": "32627876560996",
+    "size": "40 (6.5 UK)",
+    "weight": "50-80 kg",
+    "price_cents": 18900,
+    "available": true
+   },
+   {
+    "id": "32627876593764",
+    "size": "40 (6.5 UK)",
+    "weight": "> 80 kg",
+    "price_cents": 18900,
+    "available": true
+   },
+   {
+    "id": "32627876626532",
+    "size": "40.5 (7 UK)",
+    "weight": "< 50 kg",
+    "price_cents": 18900,
+    "available": true
+   },
+   {
+    "id": "32627876659300",
+    "size": "40.5 (7 UK)",
+    "weight": "50-80 kg",
+    "price_cents": 18900,
+    "available": true
+   },
+   {
+    "id": "32627876692068",
+    "size": "40.5 (7 UK)",
+    "weight": "> 80 kg",
+    "price_cents": 18900,
+    "available": true
+   },
+   {
+    "id": "32627876724836",
+    "size": "41-41.5 (7.5 UK)",
+    "weight": "< 50 kg",
+    "price_cents": 18900,
+    "available": true
+   },
+   {
+    "id": "32627876757604",
+    "size": "41-41.5 (7.5 UK)",
+    "weight": "50-80 kg",
+    "price_cents": 18900,
+    "available": true
+   },
+   {
+    "id": "32627876790372",
+    "size": "41-41.5 (7.5 UK)",
+    "weight": "> 80 kg",
+    "price_cents": 18900,
+    "available": true
+   }
+  ]
+ },
+ {
+  "id": "4853858205796",
+  "handle": "chaussure-running-femme-neon-universel",
+  "title": "Neon Universel",
+  "category": "running",
+  "audience": "Running Femme",
+  "price_cents": 18900,
+  "image_url": "https://cdn.shopify.com/s/files/1/0276/6441/6868/files/wizwedge_neon_uni.jpg?v=1774530669",
+  "url": "https://wizwedge.com/fr-fr/products/chaussure-running-femme-neon-universel",
+  "summary": "Le modèle NEON Universel a été conçu pour tenir compte des spécificités podologiques et biomécaniques des femmes sportives. Il s’adresse à des sportives dont la foulée est de type neutre (ou léger pronateur). Cette chaussure est conçue pour une pratique sur routes ou chemins.\n\nFondée sur un concept breveté (WedgeBox®), la géométrie de la chaussure WizWedge® offre aux sportifs une amélioration de l’équilibre postural et des appuis, une meilleure prévention des blessures, et une optimisation de la performance.\n\nElle soulage l’ensemble de la chaîne musculaire postérieure (muscles plantaires, tend",
+  "variants": [
+   {
+    "id": "32955153088612",
+    "size": "37-37.5 (4.5 UK)",
+    "weight": "< 50 kg",
+    "price_cents": 18900,
+    "available": true
+   },
+   {
+    "id": "32955153121380",
+    "size": "37-37.5 (4.5 UK)",
+    "weight": "50-80 kg",
+    "price_cents": 18900,
+    "available": true
+   },
+   {
+    "id": "32955153186916",
+    "size": "38 (5 UK)",
+    "weight": "< 50 kg",
+    "price_cents": 18900,
+    "available": true
+   },
+   {
+    "id": "32955153219684",
+    "size": "38 (5 UK)",
+    "weight": "50-80 kg",
+    "price_cents": 18900,
+    "available": true
+   },
+   {
+    "id": "32955153285220",
+    "size": "38.5 (5.5 UK)",
+    "weight": "< 50 kg",
+    "price_cents": 18900,
+    "available": true
+   },
+   {
+    "id": "32955153317988",
+    "size": "38.5 (5.5 UK)",
+    "weight": "50-80 kg",
+    "price_cents": 18900,
+    "available": true
+   },
+   {
+    "id": "32955153383524",
+    "size": "39-39.5 (6 UK)",
+    "weight": "< 50 kg",
+    "price_cents": 18900,
+    "available": true
+   },
+   {
+    "id": "32955153416292",
+    "size": "39-39.5 (6 UK)",
+    "weight": "50-80 kg",
+    "price_cents": 18900,
+    "available": true
+   },
+   {
+    "id": "32955153481828",
+    "size": "40 (6.5 UK)",
+    "weight": "< 50 kg",
+    "price_cents": 18900,
+    "available": true
+   },
+   {
+    "id": "32955153514596",
+    "size": "40 (6.5 UK)",
+    "weight": "50-80 kg",
+    "price_cents": 18900,
+    "available": true
+   },
+   {
+    "id": "32955153547364",
+    "size": "40 (6.5 UK)",
+    "weight": "> 80 kg",
+    "price_cents": 18900,
+    "available": true
+   },
+   {
+    "id": "32955153580132",
+    "size": "40.5 (7 UK)",
+    "weight": "< 50 kg",
+    "price_cents": 18900,
+    "available": true
+   },
+   {
+    "id": "32955153612900",
+    "size": "40.5 (7 UK)",
+    "weight": "50-80 kg",
+    "price_cents": 18900,
+    "available": true
+   },
+   {
+    "id": "32955153645668",
+    "size": "40.5 (7 UK)",
+    "weight": "> 80 kg",
+    "price_cents": 18900,
+    "available": true
+   },
+   {
+    "id": "32955153678436",
+    "size": "41-41.5 (7.5 UK)",
+    "weight": "< 50 kg",
+    "price_cents": 18900,
+    "available": true
+   },
+   {
+    "id": "32955153711204",
+    "size": "41-41.5 (7.5 UK)",
+    "weight": "50-80 kg",
+    "price_cents": 18900,
+    "available": true
+   },
+   {
+    "id": "32955153743972",
+    "size": "41-41.5 (7.5 UK)",
+    "weight": "> 80 kg",
+    "price_cents": 18900,
+    "available": true
+   }
+  ]
+ },
+ {
+  "id": "4853859844196",
+  "handle": "chaussure-trail-marche-nordique-stargon",
+  "title": "Stargon",
+  "category": "trail",
+  "audience": "Trail/Marche nordique",
+  "price_cents": 19900,
+  "image_url": "https://cdn.shopify.com/s/files/1/0276/6441/6868/files/wizwedge_Trail_red.jpg?v=1774530722",
+  "url": "https://wizwedge.com/fr-fr/products/chaussure-trail-marche-nordique-stargon",
+  "summary": "La chaussure de trail-marche nordique Stargon est destinée aux traileurs à foulée universelle ou légèrement pronatrice, débutant ou régulier, en recherche de protection ainsi qu'aux marcheurs pour pratiquer une activité sportive en minimisant les douleurs articulaires, mal de dos et tendinites.\n\nElle procure confort et sécurité sur ses appuis grâce à une semelle extérieure crantée. La situation et la géométrie étudiées des crampons et des crans de la semelle extérieure permettent une adhérence particulièrement efficace sur terrains instables et inégaux. La traction et le freinage sont amélioré",
+  "variants": [
+   {
+    "id": "32955159347300",
+    "size": "41-41.5 (7.5 UK)",
+    "weight": "< 50 kg",
+    "price_cents": 19900,
+    "available": true
+   },
+   {
+    "id": "32955159380068",
+    "size": "41-41.5 (7.5 UK)",
+    "weight": "50-80 kg",
+    "price_cents": 19900,
+    "available": true
+   },
+   {
+    "id": "32955159412836",
+    "size": "41-41.5 (7.5 UK)",
+    "weight": "> 80 kg",
+    "price_cents": 19900,
+    "available": true
+   },
+   {
+    "id": "32955159445604",
+    "size": "42 (8 UK)",
+    "weight": "< 50 kg",
+    "price_cents": 19900,
+    "available": true
+   },
+   {
+    "id": "32955159478372",
+    "size": "42 (8 UK)",
+    "weight": "50-80 kg",
+    "price_cents": 19900,
+    "available": true
+   },
+   {
+    "id": "32955159511140",
+    "size": "42 (8 UK)",
+    "weight": "> 80 kg",
+    "price_cents": 19900,
+    "available": true
+   },
+   {
+    "id": "32955159543908",
+    "size": "42.5 (8.5 UK)",
+    "weight": "< 50 kg",
+    "price_cents": 19900,
+    "available": true
+   },
+   {
+    "id": "32955159576676",
+    "size": "42.5 (8.5 UK)",
+    "weight": "50-80 kg",
+    "price_cents": 19900,
+    "available": true
+   },
+   {
+    "id": "32955159609444",
+    "size": "42.5 (8.5 UK)",
+    "weight": "> 80 kg",
+    "price_cents": 19900,
+    "available": true
+   },
+   {
+    "id": "32955159642212",
+    "size": "43-43.5 (9 UK)",
+    "weight": "< 50 kg",
+    "price_cents": 19900,
+    "available": true
+   },
+   {
+    "id": "32955159674980",
+    "size": "43-43.5 (9 UK)",
+    "weight": "50-80 kg",
+    "price_cents": 19900,
+    "available": true
+   },
+   {
+    "id": "32955159707748",
+    "size": "43-43.5 (9 UK)",
+    "weight": "> 80 kg",
+    "price_cents": 19900,
+    "available": true
+   },
+   {
+    "id": "32955159740516",
+    "size": "44 (9.5 UK)",
+    "weight": "< 50 kg",
+    "price_cents": 19900,
+    "available": true
+   },
+   {
+    "id": "32955159773284",
+    "size": "44 (9.5 UK)",
+    "weight": "50-80 kg",
+    "price_cents": 19900,
+    "available": true
+   },
+   {
+    "id": "32955159806052",
+    "size": "44 (9.5 UK)",
+    "weight": "> 80 kg",
+    "price_cents": 19900,
+    "available": true
+   },
+   {
+    "id": "32955159838820",
+    "size": "44.5 (10 UK)",
+    "weight": "< 50 kg",
+    "price_cents": 19900,
+    "available": false
+   },
+   {
+    "id": "32955159871588",
+    "size": "44.5 (10 UK)",
+    "weight": "50-80 kg",
+    "price_cents": 19900,
+    "available": false
+   },
+   {
+    "id": "32955159904356",
+    "size": "44.5 (10 UK)",
+    "weight": "> 80 kg",
+    "price_cents": 19900,
+    "available": false
+   },
+   {
+    "id": "32955159969892",
+    "size": "45-45.5 (10.5 UK)",
+    "weight": "50-80 kg",
+    "price_cents": 19900,
+    "available": false
+   },
+   {
+    "id": "32955160002660",
+    "size": "45-45.5 (10.5 UK)",
+    "weight": "> 80 kg",
+    "price_cents": 19900,
+    "available": false
+   },
+   {
+    "id": "32955160068196",
+    "size": "46 (11 UK)",
+    "weight": "50-80 kg",
+    "price_cents": 19900,
+    "available": false
+   },
+   {
+    "id": "32955160100964",
+    "size": "46 (11 UK)",
+    "weight": "> 80 kg",
+    "price_cents": 19900,
+    "available": false
+   }
+  ]
+ },
+ {
+  "id": "4853865152612",
+  "handle": "chaussure-football-rugby-homme-wave-blanche",
+  "title": "Wave Blanche",
+  "category": "crampons",
+  "audience": "Football/Rugby",
+  "price_cents": 17900,
+  "image_url": "https://cdn.shopify.com/s/files/1/0276/6441/6868/files/wizwedge_wave_blanche.jpg?v=1774530744",
+  "url": "https://wizwedge.com/fr-fr/products/chaussure-football-rugby-homme-wave-blanche",
+  "summary": "Modèle à crampons moulés, idéal pour la pratique sur pelouse naturelle et terrains synthétiques en extérieur.\n\nFondée sur un concept breveté (WedgeBox®), la géométrie de la chaussure WizWedge® offre aux sportifs une amélioration de l’équilibre postural et des appuis, une meilleure prévention des blessures, et une optimisation de la performance.\n\nElle soulage l’ensemble de la chaîne musculaire postérieure (muscles plantaires, tendon d’Achille, mollets, ischio-jambiers, fessiers, lombaires) grâce à une surélévation étudiée du talon associée au support des arches plantaires.\n\nPoids (sans wedge) :",
+  "variants": [
+   {
+    "id": "32955174649956",
+    "size": "41-41.5 (7.5 UK)",
+    "weight": "< 50 kg",
+    "price_cents": 17900,
+    "available": true
+   },
+   {
+    "id": "32955174682724",
+    "size": "41-41.5 (7.5 UK)",
+    "weight": "50-80 kg",
+    "price_cents": 17900,
+    "available": true
+   },
+   {
+    "id": "32955174715492",
+    "size": "41-41.5 (7.5 UK)",
+    "weight": "> 80 kg",
+    "price_cents": 17900,
+    "available": true
+   },
+   {
+    "id": "32955174748260",
+    "size": "42 (8 UK)",
+    "weight": "< 50 kg",
+    "price_cents": 17900,
+    "available": true
+   },
+   {
+    "id": "32955174781028",
+    "size": "42 (8 UK)",
+    "weight": "50-80 kg",
+    "price_cents": 17900,
+    "available": true
+   },
+   {
+    "id": "32955174813796",
+    "size": "42 (8 UK)",
+    "weight": "> 80 kg",
+    "price_cents": 17900,
+    "available": true
+   },
+   {
+    "id": "32955174846564",
+    "size": "42.5 (8.5 UK)",
+    "weight": "< 50 kg",
+    "price_cents": 17900,
+    "available": true
+   },
+   {
+    "id": "32955174879332",
+    "size": "42.5 (8.5 UK)",
+    "weight": "50-80 kg",
+    "price_cents": 17900,
+    "available": true
+   },
+   {
+    "id": "32955174912100",
+    "size": "42.5 (8.5 UK)",
+    "weight": "> 80 kg",
+    "price_cents": 17900,
+    "available": true
+   },
+   {
+    "id": "32955174944868",
+    "size": "43-43.5 (9 UK)",
+    "weight": "< 50 kg",
+    "price_cents": 17900,
+    "available": true
+   },
+   {
+    "id": "32955174977636",
+    "size": "43-43.5 (9 UK)",
+    "weight": "50-80 kg",
+    "price_cents": 17900,
+    "available": true
+   },
+   {
+    "id": "32955175010404",
+    "size": "43-43.5 (9 UK)",
+    "weight": "> 80 kg",
+    "price_cents": 17900,
+    "available": true
+   },
+   {
+    "id": "32955175043172",
+    "size": "44 (9.5 UK)",
+    "weight": "< 50 kg",
+    "price_cents": 17900,
+    "available": true
+   },
+   {
+    "id": "32955175075940",
+    "size": "44 (9.5 UK)",
+    "weight": "50-80 kg",
+    "price_cents": 17900,
+    "available": true
+   },
+   {
+    "id": "32955175108708",
+    "size": "44 (9.5 UK)",
+    "weight": "> 80 kg",
+    "price_cents": 17900,
+    "available": true
+   },
+   {
+    "id": "32955175141476",
+    "size": "44.5 (10 UK)",
+    "weight": "< 50 kg",
+    "price_cents": 17900,
+    "available": false
+   },
+   {
+    "id": "32955175174244",
+    "size": "44.5 (10 UK)",
+    "weight": "50-80 kg",
+    "price_cents": 17900,
+    "available": true
+   },
+   {
+    "id": "32955175207012",
+    "size": "44.5 (10 UK)",
+    "weight": "> 80 kg",
+    "price_cents": 17900,
+    "available": false
+   },
+   {
+    "id": "32955175272548",
+    "size": "45-45.5 (10.5 UK)",
+    "weight": "50-80 kg",
+    "price_cents": 17900,
+    "available": false
+   },
+   {
+    "id": "32955175305316",
+    "size": "45-45.5 (10.5 UK)",
+    "weight": "> 80 kg",
+    "price_cents": 17900,
+    "available": false
+   },
+   {
+    "id": "32955175370852",
+    "size": "46 (11 UK)",
+    "weight": "50-80 kg",
+    "price_cents": 17900,
+    "available": true
+   },
+   {
+    "id": "32955175403620",
+    "size": "46 (11 UK)",
+    "weight": "> 80 kg",
+    "price_cents": 17900,
+    "available": true
+   }
+  ]
+ },
+ {
+  "id": "4853867774052",
+  "handle": "chaussure-football-rugby-homme-wave-noire-mixte",
+  "title": "Wave Mixte Noire",
+  "category": "crampons",
+  "audience": "Football/Rugby",
+  "price_cents": 18900,
+  "image_url": "https://cdn.shopify.com/s/files/1/0276/6441/6868/files/chaussure-crampons-football-rugby-visses-wave-mixte-noire.jpg?v=1774452148",
+  "url": "https://wizwedge.com/fr-fr/products/chaussure-football-rugby-homme-wave-noire-mixte",
+  "summary": "Modèle à crampons mixtes (6 crampons vissés amovibles inclus et 5 crampons moulés), idéal pour la pratique sur pelouse naturelle et terrains synthétiques en extérieur. Crampons vissés en aluminium, à filetage universel, de dimensions 11mm à l’avant et 13 mm à l’arrière.\n\nFondée sur un concept breveté (WedgeBox®), la géométrie de la chaussure WizWedge® offre aux sportifs une amélioration de l’équilibre postural et des appuis, une meilleure prévention des blessures, et une optimisation de la performance.\n\nElle soulage l’ensemble de la chaîne musculaire postérieure (muscles plantaires, tendon d’A",
+  "variants": [
+   {
+    "id": "32955183824996",
+    "size": "41-41.5 (7.5 UK)",
+    "weight": "< 50 kg",
+    "price_cents": 18900,
+    "available": false
+   },
+   {
+    "id": "32955183857764",
+    "size": "41-41.5 (7.5 UK)",
+    "weight": "50-80 kg",
+    "price_cents": 18900,
+    "available": true
+   },
+   {
+    "id": "32955183890532",
+    "size": "41-41.5 (7.5 UK)",
+    "weight": "> 80 kg",
+    "price_cents": 18900,
+    "available": true
+   },
+   {
+    "id": "32955183923300",
+    "size": "42 (8 UK)",
+    "weight": "< 50 kg",
+    "price_cents": 18900,
+    "available": false
+   },
+   {
+    "id": "32955183956068",
+    "size": "42 (8 UK)",
+    "weight": "50-80 kg",
+    "price_cents": 18900,
+    "available": true
+   },
+   {
+    "id": "32955183988836",
+    "size": "42 (8 UK)",
+    "weight": "> 80 kg",
+    "price_cents": 18900,
+    "available": true
+   },
+   {
+    "id": "32955184021604",
+    "size": "42.5 (8.5 UK)",
+    "weight": "< 50 kg",
+    "price_cents": 18900,
+    "available": false
+   },
+   {
+    "id": "32955184054372",
+    "size": "42.5 (8.5 UK)",
+    "weight": "50-80 kg",
+    "price_cents": 18900,
+    "available": true
+   },
+   {
+    "id": "32955184087140",
+    "size": "42.5 (8.5 UK)",
+    "weight": "> 80 kg",
+    "price_cents": 18900,
+    "available": true
+   },
+   {
+    "id": "32955184119908",
+    "size": "43-43.5 (9 UK)",
+    "weight": "< 50 kg",
+    "price_cents": 18900,
+    "available": false
+   },
+   {
+    "id": "32955184152676",
+    "size": "43-43.5 (9 UK)",
+    "weight": "50-80 kg",
+    "price_cents": 18900,
+    "available": false
+   },
+   {
+    "id": "32955184185444",
+    "size": "43-43.5 (9 UK)",
+    "weight": "> 80 kg",
+    "price_cents": 18900,
+    "available": false
+   },
+   {
+    "id": "32955184218212",
+    "size": "44 (9.5 UK)",
+    "weight": "< 50 kg",
+    "price_cents": 18900,
+    "available": false
+   },
+   {
+    "id": "32955184250980",
+    "size": "44 (9.5 UK)",
+    "weight": "50-80 kg",
+    "price_cents": 18900,
+    "available": false
+   },
+   {
+    "id": "32955184283748",
+    "size": "44 (9.5 UK)",
+    "weight": "> 80 kg",
+    "price_cents": 18900,
+    "available": false
+   },
+   {
+    "id": "32955184316516",
+    "size": "44.5 (10 UK)",
+    "weight": "< 50 kg",
+    "price_cents": 18900,
+    "available": false
+   },
+   {
+    "id": "32955184349284",
+    "size": "44.5 (10 UK)",
+    "weight": "50-80 kg",
+    "price_cents": 18900,
+    "available": false
+   },
+   {
+    "id": "32955184382052",
+    "size": "44.5 (10 UK)",
+    "weight": "> 80 kg",
+    "price_cents": 18900,
+    "available": false
+   },
+   {
+    "id": "32955184447588",
+    "size": "45-45.5 (10.5 UK)",
+    "weight": "50-80 kg",
+    "price_cents": 18900,
+    "available": false
+   },
+   {
+    "id": "32955184480356",
+    "size": "45-45.5 (10.5 UK)",
+    "weight": "> 80 kg",
+    "price_cents": 18900,
+    "available": false
+   },
+   {
+    "id": "32955184545892",
+    "size": "46 (11 UK)",
+    "weight": "50-80 kg",
+    "price_cents": 18900,
+    "available": false
+   },
+   {
+    "id": "32955184578660",
+    "size": "46 (11 UK)",
+    "weight": "> 80 kg",
+    "price_cents": 18900,
+    "available": false
+   }
+  ]
+ },
+ {
+  "id": "4853868855396",
+  "handle": "chaussure-football-rugby-homme-wave-noire",
+  "title": "Wave Noire",
+  "category": "crampons",
+  "audience": "Football/Rugby",
+  "price_cents": 17900,
+  "image_url": "https://cdn.shopify.com/s/files/1/0276/6441/6868/files/wizwedge_wave_black.jpg?v=1774530851",
+  "url": "https://wizwedge.com/fr-fr/products/chaussure-football-rugby-homme-wave-noire",
+  "summary": "Modèle en polyuréthane de haute qualité à crampons moulés, idéal pour la pratique sur pelouse naturelle et terrains synthétiques en extérieur.\n\nFondée sur un concept breveté (WedgeBox®), la géométrie de la chaussure WizWedge® offre aux sportifs une amélioration de l’équilibre postural et des appuis, une meilleure prévention des blessures, et une optimisation de la performance.\n\nElle soulage l’ensemble de la chaîne musculaire postérieure (muscles plantaires, tendon d’Achille, mollets, ischio-jambiers, fessiers, lombaires) grâce à une surélévation étudiée du talon associée au support des arches ",
+  "variants": [
+   {
+    "id": "32955190378596",
+    "size": "41-41.5 (7.5 UK)",
+    "weight": "< 50 kg",
+    "price_cents": 17900,
+    "available": false
+   },
+   {
+    "id": "32955190411364",
+    "size": "41-41.5 (7.5 UK)",
+    "weight": "50-80 kg",
+    "price_cents": 17900,
+    "available": false
+   },
+   {
+    "id": "32955190444132",
+    "size": "41-41.5 (7.5 UK)",
+    "weight": "> 80 kg",
+    "price_cents": 17900,
+    "available": false
+   },
+   {
+    "id": "32955190476900",
+    "size": "42 (8 UK)",
+    "weight": "< 50 kg",
+    "price_cents": 17900,
+    "available": true
+   },
+   {
+    "id": "32955190509668",
+    "size": "42 (8 UK)",
+    "weight": "50-80 kg",
+    "price_cents": 17900,
+    "available": true
+   },
+   {
+    "id": "32955190542436",
+    "size": "42 (8 UK)",
+    "weight": "> 80 kg",
+    "price_cents": 17900,
+    "available": true
+   },
+   {
+    "id": "32955190575204",
+    "size": "42.5 (8.5 UK)",
+    "weight": "< 50 kg",
+    "price_cents": 17900,
+    "available": true
+   },
+   {
+    "id": "32955190607972",
+    "size": "42.5 (8.5 UK)",
+    "weight": "50-80 kg",
+    "price_cents": 17900,
+    "available": true
+   },
+   {
+    "id": "32955190640740",
+    "size": "42.5 (8.5 UK)",
+    "weight": "> 80 kg",
+    "price_cents": 17900,
+    "available": true
+   },
+   {
+    "id": "32955190673508",
+    "size": "43-43.5 (9 UK)",
+    "weight": "< 50 kg",
+    "price_cents": 17900,
+    "available": false
+   },
+   {
+    "id": "32955190706276",
+    "size": "43-43.5 (9 UK)",
+    "weight": "50-80 kg",
+    "price_cents": 17900,
+    "available": true
+   },
+   {
+    "id": "32955190739044",
+    "size": "43-43.5 (9 UK)",
+    "weight": "> 80 kg",
+    "price_cents": 17900,
+    "available": true
+   },
+   {
+    "id": "32955190771812",
+    "size": "44 (9.5 UK)",
+    "weight": "< 50 kg",
+    "price_cents": 17900,
+    "available": false
+   },
+   {
+    "id": "32955190804580",
+    "size": "44 (9.5 UK)",
+    "weight": "50-80 kg",
+    "price_cents": 17900,
+    "available": true
+   },
+   {
+    "id": "32955190837348",
+    "size": "44 (9.5 UK)",
+    "weight": "> 80 kg",
+    "price_cents": 17900,
+    "available": true
+   },
+   {
+    "id": "32955190870116",
+    "size": "44.5 (10 UK)",
+    "weight": "< 50 kg",
+    "price_cents": 17900,
+    "available": false
+   },
+   {
+    "id": "32955190902884",
+    "size": "44.5 (10 UK)",
+    "weight": "50-80 kg",
+    "price_cents": 17900,
+    "available": false
+   },
+   {
+    "id": "32955190935652",
+    "size": "44.5 (10 UK)",
+    "weight": "> 80 kg",
+    "price_cents": 17900,
+    "available": false
+   },
+   {
+    "id": "32955191001188",
+    "size": "45-45.5 (10.5 UK)",
+    "weight": "50-80 kg",
+    "price_cents": 17900,
+    "available": false
+   },
+   {
+    "id": "32955191033956",
+    "size": "45-45.5 (10.5 UK)",
+    "weight": "> 80 kg",
+    "price_cents": 17900,
+    "available": false
+   },
+   {
+    "id": "32955191099492",
+    "size": "46 (11 UK)",
+    "weight": "50-80 kg",
+    "price_cents": 17900,
+    "available": false
+   },
+   {
+    "id": "32955191132260",
+    "size": "46 (11 UK)",
+    "weight": "> 80 kg",
+    "price_cents": 17900,
+    "available": false
+   }
+  ]
+ },
+ {
+  "id": "4853872230500",
+  "handle": "chaussure-football-rugby-wave-noire-junior",
+  "title": "Wave Noire Junior",
+  "category": "crampons",
+  "audience": "Football/Rugby Junior",
+  "price_cents": 15900,
+  "image_url": "https://cdn.shopify.com/s/files/1/0276/6441/6868/files/chaussure-crampons-football-rugby-moules-wave-enfant-noire.jpg?v=1774452000",
+  "url": "https://wizwedge.com/fr-fr/products/chaussure-football-rugby-wave-noire-junior",
+  "summary": "Modèle en polyuréthane de haute qualité à crampons moulés, idéal pour la pratique sur pelouse naturelle et terrains synthétiques en extérieur.\n\nFondée sur un concept breveté (WedgeBox®), la géométrie de la chaussure WizWedge® offre aux sportifs une amélioration de l’équilibre postural et des appuis, une meilleure prévention des blessures, et une optimisation de la performance.\n\nElle soulage l’ensemble de la chaîne musculaire postérieure (muscles plantaires, tendon d’Achille, mollets, ischio-jambiers, fessiers, lombaires) grâce à une surélévation étudiée du talon associée au support des arches ",
+  "variants": [
+   {
+    "id": "32955205943396",
+    "size": "37-37.5 (4.5 UK)",
+    "weight": "< 50 kg",
+    "price_cents": 15900,
+    "available": false
+   },
+   {
+    "id": "32955205976164",
+    "size": "37-37.5 (4.5 UK)",
+    "weight": "50-80 kg",
+    "price_cents": 15900,
+    "available": false
+   },
+   {
+    "id": "32955206041700",
+    "size": "38 (5 UK)",
+    "weight": "< 50 kg",
+    "price_cents": 15900,
+    "available": false
+   },
+   {
+    "id": "32955206074468",
+    "size": "38 (5 UK)",
+    "weight": "50-80 kg",
+    "price_cents": 15900,
+    "available": true
+   },
+   {
+    "id": "32955206140004",
+    "size": "38.5 (5.5 UK)",
+    "weight": "< 50 kg",
+    "price_cents": 15900,
+    "available": true
+   },
+   {
+    "id": "32955206172772",
+    "size": "38.5 (5.5 UK)",
+    "weight": "50-80 kg",
+    "price_cents": 15900,
+    "available": true
+   },
+   {
+    "id": "32955206238308",
+    "size": "39-39.5 (6 UK)",
+    "weight": "< 50 kg",
+    "price_cents": 15900,
+    "available": false
+   },
+   {
+    "id": "32955206271076",
+    "size": "39-39.5 (6 UK)",
+    "weight": "50-80 kg",
+    "price_cents": 15900,
+    "available": false
+   },
+   {
+    "id": "32955206336612",
+    "size": "40 (6.5 UK)",
+    "weight": "< 50 kg",
+    "price_cents": 15900,
+    "available": true
+   },
+   {
+    "id": "32955206369380",
+    "size": "40 (6.5 UK)",
+    "weight": "50-80 kg",
+    "price_cents": 15900,
+    "available": false
+   },
+   {
+    "id": "32955206402148",
+    "size": "40 (6.5 UK)",
+    "weight": "> 80 kg",
+    "price_cents": 15900,
+    "available": true
+   },
+   {
+    "id": "32955206434916",
+    "size": "40.5 (7 UK)",
+    "weight": "< 50 kg",
+    "price_cents": 15900,
+    "available": true
+   },
+   {
+    "id": "32955206467684",
+    "size": "40.5 (7 UK)",
+    "weight": "50-80 kg",
+    "price_cents": 15900,
+    "available": true
+   },
+   {
+    "id": "32955206500452",
+    "size": "40.5 (7 UK)",
+    "weight": "> 80 kg",
+    "price_cents": 15900,
+    "available": true
+   }
+  ]
+ },
+ {
+  "id": "4823716102244",
+  "handle": "wedge-amorti",
+  "title": "Wedge Amorti",
+  "category": "wedge",
+  "audience": "Wedge",
+  "price_cents": 1499,
+  "image_url": "https://cdn.shopify.com/s/files/1/0276/6441/6868/products/wedge_amorti.jpg?v=1604659441",
+  "url": "https://wizwedge.com/fr-fr/products/wedge-amorti",
+  "summary": "Le wedge est uniquement utilisable sur les modèles Hélium, Néon, Stargon et Wave de la gamme Wizwedge. Vous ne pouvez pas l'utiliser dans d'autres chaussures.",
+  "variants": [
+   {
+    "id": "32608039272548",
+    "size": "37-39.5 (4.5-6 UK)",
+    "weight": "< 50 kg",
+    "price_cents": 1499,
+    "available": true
+   },
+   {
+    "id": "32608039305316",
+    "size": "40-42 (6.5-8 UK)",
+    "weight": "< 50 kg",
+    "price_cents": 1499,
+    "available": true
+   },
+   {
+    "id": "32608039338084",
+    "size": "42.5-44.5 (8.5-10 UK)",
+    "weight": "< 50 kg",
+    "price_cents": 1499,
+    "available": true
+   },
+   {
+    "id": "32608039403620",
+    "size": "37-39.5 (4.5-6 UK)",
+    "weight": "50-80 kg",
+    "price_cents": 1499,
+    "available": true
+   },
+   {
+    "id": "32608039436388",
+    "size": "40-42 (6.5-8 UK)",
+    "weight": "50-80 kg",
+    "price_cents": 1499,
+    "available": true
+   },
+   {
+    "id": "32608039469156",
+    "size": "42.5-44.5 (8.5-10 UK)",
+    "weight": "50-80 kg",
+    "price_cents": 1499,
+    "available": true
+   },
+   {
+    "id": "32608039501924",
+    "size": "45-47 (10.5-12 UK)",
+    "weight": "50-80 kg",
+    "price_cents": 1499,
+    "available": true
+   },
+   {
+    "id": "32608039567460",
+    "size": "40-42 (6.5-8 UK)",
+    "weight": "> 80 kg",
+    "price_cents": 1499,
+    "available": true
+   },
+   {
+    "id": "32608039600228",
+    "size": "42.5-44.5 (8.5-10 UK)",
+    "weight": "> 80 kg",
+    "price_cents": 1499,
+    "available": true
+   },
+   {
+    "id": "32608039632996",
+    "size": "45-47 (10.5-12 UK)",
+    "weight": "> 80 kg",
+    "price_cents": 1499,
+    "available": true
+   }
+  ]
+ },
+ {
+  "id": "4823716593764",
+  "handle": "wedge-dynamique",
+  "title": "Wedge Dynamique",
+  "category": "wedge",
+  "audience": "Wedge",
+  "price_cents": 1499,
+  "image_url": "https://cdn.shopify.com/s/files/1/0276/6441/6868/products/wedge_dynamique.jpg?v=1604659519",
+  "url": "https://wizwedge.com/fr-fr/products/wedge-dynamique",
+  "summary": "Le wedge est uniquement utilisable sur les modèles Hélium, Néon, Stargon et Wave de la gamme Wizwedge. Vous ne pouvez pas l'utiliser dans d'autres chaussures.",
+  "variants": [
+   {
+    "id": "32608040058980",
+    "size": "37-39.5 (4.5-6 UK)",
+    "weight": "< 50 kg",
+    "price_cents": 1499,
+    "available": true
+   },
+   {
+    "id": "32608040091748",
+    "size": "40-42 (6.5-8 UK)",
+    "weight": "< 50 kg",
+    "price_cents": 1499,
+    "available": true
+   },
+   {
+    "id": "32608040124516",
+    "size": "42.5-44.5 (8.5-10 UK)",
+    "weight": "< 50 kg",
+    "price_cents": 1499,
+    "available": true
+   },
+   {
+    "id": "32608040190052",
+    "size": "37-39.5 (4.5-6 UK)",
+    "weight": "50-80 kg",
+    "price_cents": 1499,
+    "available": true
+   },
+   {
+    "id": "32608040222820",
+    "size": "40-42 (6.5-8 UK)",
+    "weight": "50-80 kg",
+    "price_cents": 1499,
+    "available": false
+   },
+   {
+    "id": "32608040255588",
+    "size": "42.5-44.5 (8.5-10 UK)",
+    "weight": "50-80 kg",
+    "price_cents": 1499,
+    "available": false
+   },
+   {
+    "id": "32608040288356",
+    "size": "45-47 (10.5-12 UK)",
+    "weight": "50-80 kg",
+    "price_cents": 1499,
+    "available": true
+   },
+   {
+    "id": "32608040353892",
+    "size": "40-42 (6.5-8 UK)",
+    "weight": "> 80 kg",
+    "price_cents": 1499,
+    "available": true
+   },
+   {
+    "id": "32608040386660",
+    "size": "42.5-44.5 (8.5-10 UK)",
+    "weight": "> 80 kg",
+    "price_cents": 1499,
+    "available": true
+   },
+   {
+    "id": "32608040419428",
+    "size": "45-47 (10.5-12 UK)",
+    "weight": "> 80 kg",
+    "price_cents": 1499,
+    "available": true
+   }
+  ]
+ },
+ {
+  "id": "4823716560996",
+  "handle": "wedge-medium",
+  "title": "Wedge Medium",
+  "category": "wedge",
+  "audience": "Wedge",
+  "price_cents": 1499,
+  "image_url": "https://cdn.shopify.com/s/files/1/0276/6441/6868/products/wedge_medium_1284296a-fba1-4716-9db0-817410d4d6d1.jpg?v=1604659551",
+  "url": "https://wizwedge.com/fr-fr/products/wedge-medium",
+  "summary": "Le wedge est uniquement utilisable sur les modèles Hélium, Néon, Stargon et Wave de la gamme Wizwedge. Vous ne pouvez pas l'utiliser dans d'autres chaussures.",
+  "variants": [
+   {
+    "id": "32608039665764",
+    "size": "37-39.5 (4.5-6 UK)",
+    "weight": "< 50 kg",
+    "price_cents": 1499,
+    "available": true
+   },
+   {
+    "id": "32608039698532",
+    "size": "40-42 (6.5-8 UK)",
+    "weight": "< 50 kg",
+    "price_cents": 1499,
+    "available": true
+   },
+   {
+    "id": "32608039731300",
+    "size": "42.5-44.5 (8.5-10 UK)",
+    "weight": "< 50 kg",
+    "price_cents": 1499,
+    "available": true
+   },
+   {
+    "id": "32608039796836",
+    "size": "37-39.5 (4.5-6 UK)",
+    "weight": "50-80 kg",
+    "price_cents": 1499,
+    "available": true
+   },
+   {
+    "id": "32608039829604",
+    "size": "40-42 (6.5-8 UK)",
+    "weight": "50-80 kg",
+    "price_cents": 1499,
+    "available": true
+   },
+   {
+    "id": "32608039862372",
+    "size": "42.5-44.5 (8.5-10 UK)",
+    "weight": "50-80 kg",
+    "price_cents": 1499,
+    "available": true
+   },
+   {
+    "id": "32608039895140",
+    "size": "45-47 (10.5-12 UK)",
+    "weight": "50-80 kg",
+    "price_cents": 1499,
+    "available": true
+   },
+   {
+    "id": "32608039960676",
+    "size": "40-42 (6.5-8 UK)",
+    "weight": "> 80 kg",
+    "price_cents": 1499,
+    "available": true
+   },
+   {
+    "id": "32608039993444",
+    "size": "42.5-44.5 (8.5-10 UK)",
+    "weight": "> 80 kg",
+    "price_cents": 1499,
+    "available": true
+   },
+   {
+    "id": "32608040026212",
+    "size": "45-47 (10.5-12 UK)",
+    "weight": "> 80 kg",
+    "price_cents": 1499,
+    "available": true
+   }
+  ]
+ },
+ {
+  "id": "4830755356772",
+  "handle": "chaussette-contention-compression-stab-confort",
+  "title": "Chaussettes STAB-CONFORT de compression",
+  "category": "accessoire",
+  "audience": "",
+  "price_cents": 4900,
+  "image_url": "https://cdn.shopify.com/s/files/1/0276/6441/6868/products/DSC08483.jpg?v=1641477569",
+  "url": "https://wizwedge.com/fr-fr/products/chaussette-contention-compression-stab-confort",
+  "summary": "Chaussettes à compression modérée\n\nCes chaussettes de contention sont idéales pour atténuer la sensation de jambes lourdes.\n\nGamme conseillée pour la marche, l'exercice au quotidien et lors de vos voyages.\n\nLes coussinets en silicone 3D améliorent la stabilité des appuis.\n\nTextile bleuté à l'extension.\n\nCaractéristiques principales\n\n- Compression étagée du pied au mollet\n\n- Forme anatomique\n\n- Textile micro-aéré ultra-respirant, lavable et à séchage rapide\n\n- Coussinets en silicone stabilisants\n\nComposition\n\n80% Polyamide / 20% Elasthanne\n\nLivraison/Retours\n\n Livraison\n\n- Livraison standard gr",
+  "variants": [
+   {
+    "id": "39669230305380",
+    "size": "S (36-38)",
+    "weight": null,
+    "price_cents": 4900,
+    "available": true
+   },
+   {
+    "id": "39669230338148",
+    "size": "M (39-41)",
+    "weight": null,
+    "price_cents": 4900,
+    "available": true
+   },
+   {
+    "id": "39669230370916",
+    "size": "L (42-44)",
+    "weight": null,
+    "price_cents": 4900,
+    "available": true
+   },
+   {
+    "id": "39669230403684",
+    "size": "XL (45-47)",
+    "weight": null,
+    "price_cents": 4900,
+    "available": true
+   }
+  ]
+ }
+]
